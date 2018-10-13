@@ -1,0 +1,1 @@
+java -jar MWR-scrape-bot-1.0-SNAPSHOT-all.jar
