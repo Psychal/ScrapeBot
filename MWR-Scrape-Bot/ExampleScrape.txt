@@ -1,0 +1,1726 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-us" class="no-js">
+ <!--<![endif]-->
+ <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"> 
+  <meta charset="UTF-8"> 
+  <title>Hearthstone Cards </title> 
+  <meta name="description" content=""> 
+  <meta name="theme-color" content="#121212"> 
+  <!-- Responsive Meta Tag --> 
+  <link rel="shortcut icon" href="https://media-hearth.cursecdn.com/avatars/20/296/635048151495447007.png"> 
+  <!-- Links --> 
+  <!-- Meta Properties --> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="HearthPwn - Hearthstone Database, Deck Builder, News, and more!"> 
+  <meta property="og:description" content="Hearthstone Database, Deck Builder, News, and more!"> 
+  <meta property="og:url" content="https://www.hearthpwn.com/cards"> 
+  <meta property="og:image" content="https://media-hearth.cursecdn.com/avatars/20/296/635048151495447007.png"> 
+  <meta property="og:site_name" content="HearthPwn"> 
+  <meta name="description" content="Hearthstone Database, Deck Builder, News, and more!"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:site" content="@HearthPwn"> 
+  <meta name="twitter:creator" content="@HearthPwn"> 
+  <meta name="twitter:title" content="HearthPwn - Hearthstone Database, Deck Builder, News, and more!"> 
+  <meta name="twitter:description" content="Hearthstone Database, Deck Builder, News, and more!"> 
+  <meta name="twitter:image" content="https://media-hearth.cursecdn.com/avatars/20/296/635048151495447007.png"> 
+  <!-- Stylesheets --> 
+  <link rel="stylesheet" href="/Content/1-0-239-0/Skins/Blocks/css/compiled.css"> 
+  <link rel="stylesheet" href="/Content/1-0-239-0/Skins/Hearth/css/compiled.css"> 
+  <link rel="stylesheet" type="text/css" href="/api/custom-css"> 
+  <script type="text/javascript">
+        var onloadCallback = function () {
+            Cobalt.runOnHtmlInsert(Cobalt.Forms.handlegReCaptchaRender);
+        };
+    </script> 
+  <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async defer></script> 
+  <script src="https://apis.google.com/js/platform.js"></script> 
+  <!-- JavaScript --> 
+  <script src="/js/jquery-migration?v=GjyiFSP641QXo5QcmpaUW1L8laD5rKWzPP0n7lEpHPo1"></script> 
+  <script src="/js/jquery?v=Nv44zq5I_ixHAqW6w5vkGRvG8oTC3EafTHhdXOwlAoY1"></script> 
+  <script src="/js/cobalt?v=2m3J3fbpqxJnLyJmUthHB2QKs6Jg45NEycCURmKOPnE1"></script> 
+  <script src="/js/hearthpwn?v=K2vktJ4HqiUa2Wxag3oAGebRJZOqjVsuPmr42uDXozE1"></script> 
+  <script>
+window.factorem = {};
+window.factorem.slotSizes =  [
+    [[728,90],[970,250],[980,250],[970,150],[980,150]],
+    [[300,250]],
+    [[300,250]],
+    [[728,90]],
+    [[728,90]],
+    [[300,250]],
+    [],
+    []
+];
+var script = document.createElement('script');
+var tstamp = new Date();
+script.id = 'factorem';
+script.src = '//cdm.cursecdn.com/js/dist/17.3.2-moat/cdmfactorem_min.js?misc=' + tstamp.getTime();
+script.async = false;
+script.type='text/javascript';
+document.head.appendChild(script);
+</script> 
+  <style>
+.ad-container {z-index:2 !important;}
+</style> 
+ </head> 
+ <body class="site  site-hearthpwn site-www body-hscard body-hscard-index show-ads user-anonymous lang-en site-lang-en template-none skin-light-on-dark responsive-disabled" data-user-lang="1"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PCJK45" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PCJK45');</script> 
+  <!-- End Google Tag Manager --> 
+  <!-- No Script --> 
+  <noscript class="b-noscript"> 
+   <p><i class="b-noscript-icon"></i> This site works best with JavaScript enabled. Please enable JavaScript to get the best experience from this site.</p> 
+  </noscript> 
+  <!-- Layout Start --> 
+  <div id="site" class="fixed single-column"> 
+   <div id="site-main"> 
+    <!-- Above Header, ex: Netbar --> 
+    <div class="netbar"> 
+     <span class="netbar-logo netbar-left"><a href="https://www.curse.com/">Curse</a></span> 
+     <a class="netbar-left netbar-help" href="http://web-support.curse.com">Help</a> 
+     <a href="/register?returnUrl=%2fcards" id="register-link" class="netbar-signin netbar-right">Register</a> 
+     <a href="/login?returnUrl=%2fcards" id="login-link" class="netbar-signin netbar-right">Sign In</a> 
+    </div> 
+    <!-- Header, ex: Logo, search, etc. --> 
+    <header class="main" role="banner"> 
+     <form class="primary-search b-search b-search-a" action="/search" method="get"> 
+      <input type="search" name="search" placeholder="Search HearthPwn" data-autocomplete-url="/find" data-autocomplete-width="337" data-min-chars="3" data-max-results="15" class="b-search-input ac_input" autocomplete="off"> 
+      <input type="submit" value="Search"> 
+     </form> 
+     <h1><a class="logo old-gods-static" href="http://www.hearthpwn.com/">Hearthpwn</a></h1>
+     <ul class="b-social-networks"> 
+      <li><a class="b-social-youtube" href="http://www.youtube.com/user/hearthpwn?feature=watch" target="_blank">Subscribe On YouTube</a></li> 
+      <li><a class="b-social-twitter" href="http://www.twitter.com/hearthpwn" target="_blank">Follow Us On Twitter</a></li> 
+      <li><a class="b-social-facebook" href="https://www.facebook.com/hearthpwn" target="_blank">Like Us On Facebook</a></li> 
+     </ul>
+     <p style="margin: 0;"><a id="gadgetzan-available" title="Learn more in our The Boomsday Project Guide" href="https://www.hearthpwn.com/guides/5640-the-boomsday-project-hearthstones-ninth-expansion">The Boomsday Project Guide</a></p> 
+    </header> 
+    <!-- Below Header (Ad container), ex: Leaderboard and Badge unit --> 
+    <section class="ad-container"> 
+     <div class="ad-bin"> 
+      <div class="xt-placement xt-leaderboard ad-atf-leaderboard ad-atf xt-leaderboard xt-placement atf-xt-leaderboard"> 
+       <div id="cdm-zone-01">
+        <span class="bt-uid-tg" uid="592eee3afa-52-127" style="display: none !important"></span>
+       </div> 
+      </div> 
+      <div class="xt-placement xt-ad-badge ad-atf-badge ad-atf xt-badge xt-placement atf-xt-badge"> 
+       <div id="cdm-zone-0b"></div> 
+      </div> 
+     </div> 
+    </section> 
+    <!-- Above Content, Ex: Breadcrumbs --> 
+    <section class="atf" role="complementary"> 
+     <div class="page-region gray-block-wrapper"> 
+      <div class="page-block "> 
+       <nav class="main p-nav p-nav-a j-sticky" role="navigation"> 
+        <ul class="b-list b-list-a"> 
+         <li id="nav-home" class="  b-list-item p-nav-item"> <a href="/" class=""> <span class="b-list-label"> Home </span> </a> </li> 
+         <li id="nav-cards" class=" section b-list-item p-nav-item"> <a href="/cards?display=3&amp;filter-premium=1" class=""> <span class="b-list-label"> Cards </span> </a> 
+          <ul class=""> 
+           <li id="nav-ability" class="  b-list-item p-nav-item"> <a href="/cards/ability?display=3&amp;filter-premium=1" class=""> <span class="b-list-label"> Ability </span> </a> </li> 
+           <li id="nav-minion" class="  b-list-item p-nav-item"> <a href="/cards/minion?display=3&amp;filter-premium=1" class=""> <span class="b-list-label"> Minion </span> </a> </li> 
+           <li id="nav-weapon" class="  b-list-item p-nav-item"> <a href="/cards/weapon?display=3&amp;filter-premium=1" class=""> <span class="b-list-label"> Weapon </span> </a> </li> 
+           <li id="nav-hero" class="  b-list-item p-nav-item"> <a href="/cards/hero?display=3&amp;filter-premium=1" class=""> <span class="b-list-label"> Hero </span> </a> </li> 
+           <li id="nav-hero-power" class="  b-list-item p-nav-item"> <a href="/cards/hero-power?display=3" class=""> <span class="b-list-label"> Hero Power </span> </a> </li> 
+           <li id="nav-leg-crafting-guide" class="  b-list-item p-nav-item" title="Hearthstone Legendary Crafting Guide &amp; Tier List"> <a href="/forums/hearthstone-general/card-discussion/205920-legendary-tier-list-crafting-guide" class=""> <span class="b-list-label"> Leg. Crafting Guide </span> </a> </li> 
+           <li id="nav-classic" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=3&amp;display=3" class=""> <span class="b-list-label"> Classic </span> </a> </li> 
+           <li id="nav-curse-of-naxxramas" class="  b-list-item p-nav-item"> <a href="/cards?filter-unreleased=1&amp;filter-set=100&amp;filter-premium=1&amp;display=3" class=""> <span class="b-list-label"> Curse of Naxxramas </span> </a> </li> 
+           <li id="nav-goblins-vs-gnomes" class="  b-list-item p-nav-item"> <a href="/cards?filter-unreleased=1&amp;filter-set=101&amp;filter-premium=1&amp;display=3" class=""> <span class="b-list-label"> Goblins vs Gnomes </span> </a> </li> 
+           <li id="nav-blackrock-mountain" class="  b-list-item p-nav-item"> <a href="/cards?filter-unreleased=1&amp;filter-set=102&amp;filter-premium=1&amp;display=3" class=""> <span class="b-list-label"> Blackrock Mountain </span> </a> </li> 
+           <li id="nav-the-grand-tourney" class="  b-list-item p-nav-item"> <a href="/cards?filter-unreleased=1&amp;filter-set=103&amp;filter-premium=1&amp;display=3" class=""> <span class="b-list-label"> The Grand Tourney </span> </a> </li> 
+           <li id="nav-the-league-of-explorers" class="  b-list-item p-nav-item"> <a href="/cards?filter-unreleased=1&amp;filter-set=104&amp;filter-premium=1&amp;display=3" class=""> <span class="b-list-label"> The League of Explorers </span> </a> </li> 
+           <li id="nav-whispers-of-the-old-gods" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=105&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> Whispers of the Old Gods </span> </a> </li> 
+           <li id="nav-one-night-in-karazhan" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=106&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> One Night in Karazhan </span> </a> </li> 
+           <li id="nav-mean-streets-of-gadgetzan" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=107&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> Mean Streets of Gadgetzan </span> </a> </li> 
+           <li id="nav-journey-to-ungoro" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=108&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> Journey to Un'Goro </span> </a> </li> 
+           <li id="nav-frozen-throne" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=109&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> Frozen Throne </span> </a> </li> 
+           <li id="nav-kobolds-catacombs" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=110&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> Kobolds &amp; Catacombs </span> </a> </li> 
+           <li id="nav-the-witchwood" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=111&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> The Witchwood </span> </a> </li> 
+           <li id="nav-the-boomsday-project" class="  b-list-item p-nav-item"> <a href="/cards?filter-premium=1&amp;filter-set=113&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> The Boomsday Project </span> </a> </li> 
+           <li id="nav-card-back-gallery" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/guides/592-the-card-backs-of-hearthstone" class=""> <span class="b-list-label"> Card Back Gallery </span> </a> </li> 
+           <li id="nav-card-tooltips" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/tooltips" class=""> <span class="b-list-label"> Card Tooltips </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-decks" class=" section b-list-item p-nav-item"> <a href="/decks" class=""> <span class="b-list-label"> Decks </span> </a> 
+          <ul class=""> 
+           <li id="nav-hot-standard-decks" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-show-standard=1&amp;filter-show-constructed-only=y&amp;filter-deck-tag=1" class=""> <span class="b-list-label"> Hot Standard Decks </span> </a> </li> 
+           <li id="nav-hot-wild-decks" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-show-standard=2&amp;filter-show-constructed-only=y&amp;filter-deck-tag=1" class=""> <span class="b-list-label"> Hot Wild Decks </span> </a> </li> 
+           <li id="nav-hot-budget-decks" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-show-constructed-only=y&amp;filter-deck-tag=1&amp;filter-dust-cost-min=0&amp;filter-dust-cost-max=1600" class=""> <span class="b-list-label"> Hot Budget Decks </span> </a> </li> 
+           <li id="nav-druid" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=4" class=""> <span class="b-list-label"> Druid </span> </a> </li> 
+           <li id="nav-hunter" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=8" class=""> <span class="b-list-label"> Hunter </span> </a> </li> 
+           <li id="nav-mage" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=16" class=""> <span class="b-list-label"> Mage </span> </a> </li> 
+           <li id="nav-paladin" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=32" class=""> <span class="b-list-label"> Paladin </span> </a> </li> 
+           <li id="nav-priest" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=64" class=""> <span class="b-list-label"> Priest </span> </a> </li> 
+           <li id="nav-rogue" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=128" class=""> <span class="b-list-label"> Rogue </span> </a> </li> 
+           <li id="nav-shaman" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=256" class=""> <span class="b-list-label"> Shaman </span> </a> </li> 
+           <li id="nav-warlock" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=512" class=""> <span class="b-list-label"> Warlock </span> </a> </li> 
+           <li id="nav-warrior" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/decks?filter-deck-tag=1&amp;&amp;filter-class=1024" class=""> <span class="b-list-label"> Warrior </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-forums" class=" section b-list-item p-nav-item"> <a href="/forums" class=""> <span class="b-list-label"> Forums </span> </a> 
+          <ul class=""> 
+           <li id="nav-home" class="  b-list-item p-nav-item"> <a href="/forums" class=""> <span class="b-list-label"> Home </span> </a> </li> 
+           <li id="nav-latest-threads" class="  b-list-item p-nav-item"> <a href="/new-content" class=""> <span class="b-list-label"> Latest Threads </span> </a> </li> 
+           <li id="nav-blue-tracker" class="  b-list-item p-nav-item"> <a href="/blue-tracker" class=""> <span class="b-list-label"> Blue Tracker </span> </a> </li> 
+           <li id="nav-members" class="  b-list-item p-nav-item"> <a href="/members" class=""> <span class="b-list-label"> Members </span> </a> </li> 
+           <li id="nav-site-achievements" class="  b-list-item p-nav-item"> <a href="/site-achievements" class=""> <span class="b-list-label"> Site Achievements </span> </a> </li> 
+           <li id="nav-dungeon-run-bundles" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/news/4132-all-the-possible-options-for-dungeon-run-card" class=""> <span class="b-list-label"> Dungeon Run Bundles </span> </a> </li> 
+           <li id="nav-quests-and-dailies" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/1088-list-of-achievements-and-daily-quests-in" class=""> <span class="b-list-label"> Quests and Dailies </span> </a> </li> 
+           <li id="nav-hero-level-up-rewards" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/593-card-rewards-for-leveling-up-your-heroes" class=""> <span class="b-list-label"> Hero Level-up Rewards </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-deckbuilder" class=" section b-list-item p-nav-item"> <a href="/deckbuilder" class=""> <span class="b-list-label"> Deckbuilder </span> </a> 
+          <ul class=""> 
+           <li id="nav-druid" class="  b-list-item p-nav-item"> <a href="/deckbuilder/druid" class=""> <span class="b-list-label"> Druid </span> </a> </li> 
+           <li id="nav-hunter" class="  b-list-item p-nav-item"> <a href="/deckbuilder/hunter" class=""> <span class="b-list-label"> Hunter </span> </a> </li> 
+           <li id="nav-mage" class="  b-list-item p-nav-item"> <a href="/deckbuilder/mage" class=""> <span class="b-list-label"> Mage </span> </a> </li> 
+           <li id="nav-paladin" class="  b-list-item p-nav-item"> <a href="/deckbuilder/paladin" class=""> <span class="b-list-label"> Paladin </span> </a> </li> 
+           <li id="nav-priest" class="  b-list-item p-nav-item"> <a href="/deckbuilder/priest" class=""> <span class="b-list-label"> Priest </span> </a> </li> 
+           <li id="nav-rogue" class="  b-list-item p-nav-item"> <a href="/deckbuilder/rogue" class=""> <span class="b-list-label"> Rogue </span> </a> </li> 
+           <li id="nav-shaman" class="  b-list-item p-nav-item"> <a href="/deckbuilder/shaman" class=""> <span class="b-list-label"> Shaman </span> </a> </li> 
+           <li id="nav-warlock" class="  b-list-item p-nav-item"> <a href="/deckbuilder/warlock" class=""> <span class="b-list-label"> Warlock </span> </a> </li> 
+           <li id="nav-warrior" class="  b-list-item p-nav-item"> <a href="/deckbuilder/warrior" class=""> <span class="b-list-label"> Warrior </span> </a> </li> 
+           <li id="nav-arena-simulator" class="  b-list-item p-nav-item"> <a href="/arena" class=""> <span class="b-list-label"> Arena Simulator </span> </a> </li> 
+           <li id="nav-secrets-calculator" class="  b-list-item p-nav-item"> <a href="/guides/1053-hearthstone-secrets-calculator" class=""> <span class="b-list-label"> Secrets Calculator </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-boomsday" class=" section b-list-item p-nav-item"> <a href="/guides/5640-the-boomsday-project-hearthstones-ninth-expansion" class=""> <span class="b-list-label"> Boomsday </span> </a> 
+          <ul class=""> 
+           <li id="nav-boomsday-guide" class="  b-list-item p-nav-item"> <a href="/guides/5640-the-boomsday-project-hearthstones-ninth-expansion" class=""> <span class="b-list-label"> Boomsday Guide </span> </a> </li> 
+           <li id="nav-puzzle-lab" class="  b-list-item p-nav-item"> <a href="/news/5926-all-of-the-boomsday-project-puzzles-cleared-earn" class=""> <span class="b-list-label"> Puzzle Lab </span> </a> </li> 
+           <li id="nav-all-boomsday-cards" class="  b-list-item p-nav-item"> <a href="http://www.hearthpwn.com//cards?filter-premium=1&amp;filter-set=113&amp;filter-unreleased=1&amp;display=3" class=""> <span class="b-list-label"> All Boomsday Cards </span> </a> </li> 
+           <li id="nav-reveal-countdowns" class="  b-list-item p-nav-item"> <a href="/guides/5731-the-boomsday-project-all-card-reveal-countdowns" class=""> <span class="b-list-label"> Reveal Countdowns </span> </a> </li> 
+           <li id="nav-arena-impact" class="  b-list-item p-nav-item"> <a href="/forums/hearthstone-game-modes/the-arena/220082-the-boomsday-project-arena-impact" class=""> <span class="b-list-label"> Arena Impact </span> </a> </li> 
+           <li id="nav-build-a-deck" class="  b-list-item p-nav-item"> <a href="/deckbuilder" class=""> <span class="b-list-label"> Build a Deck </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-expansions" class=" section b-list-item p-nav-item"> <a href="/guides" class=""> <span class="b-list-label"> Expansions </span> </a> 
+          <ul class=""> 
+           <li id="nav-goblins-vs-gnomes" class="  b-list-item p-nav-item"> <a href="/guides/702-goblins-vs-gnomes" class=""> <span class="b-list-label"> Goblins vs Gnomes </span> </a> </li> 
+           <li id="nav-the-grand-tournament" class="  b-list-item p-nav-item"> <a href="/guides/950-the-grand-tournament" class=""> <span class="b-list-label"> The Grand Tournament </span> </a> </li> 
+           <li id="nav-whispers-of-the-old-gods" class="  b-list-item p-nav-item"> <a href="/guides/1205-whispers-of-the-old-gods" class=""> <span class="b-list-label"> Whispers of the Old Gods </span> </a> </li> 
+           <li id="nav-mean-streets-of-gadgetzan" class="  b-list-item p-nav-item"> <a href="/guides/1840-mean-streets-of-gadgetzan-hearthstones-fourth" class=""> <span class="b-list-label"> Mean Streets of Gadgetzan </span> </a> </li> 
+           <li id="nav-journey-to-ungoro" class="  b-list-item p-nav-item"> <a href="/guides/2223-journey-to-ungoro-hearthstones-fifth-expansion" class=""> <span class="b-list-label"> Journey to Un'Goro </span> </a> </li> 
+           <li id="nav-knights-of-the-frozen-throne" class="  b-list-item p-nav-item"> <a href="/guides/2963-knights-of-the-frozen-throne-hearthstones-sixth" class=""> <span class="b-list-label"> Knights of the Frozen Throne </span> </a> </li> 
+           <li id="nav-kobolds-and-catacombs" class="  b-list-item p-nav-item"> <a href="/guides/3468-kobolds-catacombs-hearthstones-seventh-expansion" class=""> <span class="b-list-label"> Kobolds and Catacombs </span> </a> </li> 
+           <li id="nav-the-witchwood" class="  b-list-item p-nav-item"> <a href="/guides/4441-the-witchwood-hearthstones-eighth-expansion" class=""> <span class="b-list-label"> The Witchwood </span> </a> </li> 
+           <li id="nav-curse-of-naxxramas" class="  b-list-item p-nav-item"> <a href="/guides/523-curse-of-naxxramas" class=""> <span class="b-list-label"> Curse of Naxxramas </span> </a> </li> 
+           <li id="nav-blackrock-mountain" class="  b-list-item p-nav-item"> <a href="/guides/798-blackrock-mountain" class=""> <span class="b-list-label"> Blackrock Mountain </span> </a> </li> 
+           <li id="nav-league-of-explorers" class="  b-list-item p-nav-item"> <a href="/guides/1079-the-league-of-explorers-a-hearthstone-adventure" class=""> <span class="b-list-label"> League of Explorers </span> </a> </li> 
+           <li id="nav-one-night-in-karazhan" class="  b-list-item p-nav-item"> <a href="/guides/1548-one-night-in-karazhan-a-hearthstone-adventure" class=""> <span class="b-list-label"> One Night in Karazhan </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-top-decks" class=" nav-topdecks section b-list-item p-nav-item"> <a href="/top-decks" class=""> <span class="b-list-label"> Top Decks </span> </a> 
+          <ul class=""> 
+           <li id="nav-druid" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=4" class=""> <span class="b-list-label"> Druid </span> </a> </li> 
+           <li id="nav-hunter" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=8" class=""> <span class="b-list-label"> Hunter </span> </a> </li> 
+           <li id="nav-mage" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=16" class=""> <span class="b-list-label"> Mage </span> </a> </li> 
+           <li id="nav-paladin" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=32" class=""> <span class="b-list-label"> Paladin </span> </a> </li> 
+           <li id="nav-priest" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=64" class=""> <span class="b-list-label"> Priest </span> </a> </li> 
+           <li id="nav-rogue" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=128" class=""> <span class="b-list-label"> Rogue </span> </a> </li> 
+           <li id="nav-shaman" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=256" class=""> <span class="b-list-label"> Shaman </span> </a> </li> 
+           <li id="nav-warlock" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=512" class=""> <span class="b-list-label"> Warlock </span> </a> </li> 
+           <li id="nav-warrior" class="  b-list-item p-nav-item"> <a href="/top-decks?filter-class=1024" class=""> <span class="b-list-label"> Warrior </span> </a> </li> 
+          </ul> </li> 
+         <li id="nav-packs" class="  b-list-item p-nav-item"> <a href="/packs" class=""> <span class="b-list-label"> Packs </span> </a> </li> 
+         <li id="nav-innkeeper" class=" section b-list-item p-nav-item"> <a href="http://www.innkeeper.com" class=""> <span class="b-list-label"> Innkeeper </span> </a> 
+          <ul class=""> 
+           <li id="nav-feedback-and-support" class="  b-list-item p-nav-item"> <a href="/forums/off-topic/innkeeper-feedback-support" class=""> <span class="b-list-label"> Feedback and Support </span> </a> </li> 
+          </ul> </li> 
+        </ul> 
+        <a data-ga-click-event-tracking-category="Desktop View" id="responsive-topnav-button" class="rs-link rs-link-to-desktop">Desktop View</a> 
+       </nav> 
+      </div> 
+      <!-- BREADCRUMBS --> 
+      <nav class="b-breadcrumb b-breadcrumb-a"> 
+       <!-- WRAPPER --> 
+       <ul class="b-breadcrumb-wrapper"> 
+        <!-- ITEM --> 
+        <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="/" rel="up" itemprop="url"><span itemprop="title">Home</span></a> </li> 
+        <!-- ITEM --> 
+        <li class="b-breadcrumb-item" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="/cards" rel="up" itemprop="url"><span itemprop="title">Cards</span></a> </li> 
+       </ul> 
+      </nav> 
+     </div> 
+    </section> 
+    <div class="container"> 
+     <div id="content" class="main content-container"> 
+      <section class="primary-content" role="main"> 
+       <div class="listings-page"> 
+        <div class="listing-container listing-container-table"> 
+         <div class="listing-header"> 
+          <div class="p-filters p-filters-a"> 
+           <form action="/cards" method="get" class="j-filters "> 
+            <table> 
+             <tbody>
+              <tr> 
+               <th> <label for="filter-name"> <span title="" class=""> Name </span> </label> </th> 
+               <td> 
+                <!-- Field --> <input type="text" name="filter-name" id="filter-name" value="" autocomplete="off"> <span style="padding-left: 1.5em"> 
+                 <!-- Field --> <input type="checkbox" name="filter-include-card-text" id="filter-include-card-text" value="y"> <label for="filter-include-card-text"> <span title="" class=""> Include card text </span> </label> </span> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <fieldset class="right-side" data-bitmask-name="filter-class"> 
+             <span class="delete-button" title="Clear" data-debug="0" style="display: none">×</span> 
+             <legend>Class</legend> 
+             <div> 
+              <ul> 
+               <li> <input type="checkbox" id="fclass-0" value="1"> <label for="fclass-0">Neutral</label></li> 
+               <li> <input type="checkbox" id="fclass-2" value="3"> <label for="fclass-2">Druid</label></li> 
+               <li> <input type="checkbox" id="fclass-3" value="4"> <label for="fclass-3">Hunter</label></li> 
+               <li> <input type="checkbox" id="fclass-4" value="5"> <label for="fclass-4">Mage</label></li> 
+               <li> <input type="checkbox" id="fclass-5" value="6"> <label for="fclass-5">Paladin</label></li> 
+               <li> <input type="checkbox" id="fclass-6" value="7"> <label for="fclass-6">Priest</label></li> 
+               <li> <input type="checkbox" id="fclass-7" value="8"> <label for="fclass-7">Rogue</label></li> 
+               <li> <input type="checkbox" id="fclass-8" value="9"> <label for="fclass-8">Shaman</label></li> 
+               <li> <input type="checkbox" id="fclass-9" value="10"> <label for="fclass-9">Warlock</label></li> 
+               <li> <input type="checkbox" id="fclass-10" value="11"> <label for="fclass-10">Warrior</label></li> 
+              </ul> 
+             </div> 
+            </fieldset> 
+            <fieldset class="right-side" data-bitmask-name="filter-rarity"> 
+             <span class="delete-button" title="Clear" data-debug="0" style="display: none">×</span> 
+             <legend>Rarity</legend> 
+             <div> 
+              <ul> 
+               <li> <input type="checkbox" id="frarity-2" value="3"> <label for="frarity-2">Free</label></li> 
+               <li> <input type="checkbox" id="frarity-1" value="2"> <label for="frarity-1">Common</label></li> 
+               <li> <input type="checkbox" id="frarity-3" value="4"> <label for="frarity-3">Rare</label></li> 
+               <li> <input type="checkbox" id="frarity-4" value="5"> <label for="frarity-4">Epic</label></li> 
+               <li> <input type="checkbox" id="frarity-5" value="6"> <label for="frarity-5">Legendary</label></li> 
+              </ul> 
+             </div> 
+            </fieldset> 
+            <fieldset class="options"> 
+             <div> 
+              <ul> 
+               <li class="golden"> 
+                <!-- Field --> <input type="checkbox" name="filter-golden" id="filter-golden" value="y"> <label for="filter-golden"> <span title="This will display the golden version of cards on card search listings" class=" tip "> Show Golden Cards </span> </label> </li> 
+               <li class="show-std"> 
+                <!-- Field --> <input type="checkbox" name="filter-show-standard" id="filter-show-standard" value="y"> <label for="filter-show-standard"> <span title="" class=""> Show Standard Only </span> </label> </li> 
+              </ul> 
+             </div> 
+            </fieldset> 
+            <!-- Field --> 
+            <div class="p-filters-dynamic" id="dynamic-filters"></div> 
+            <script type="text/javascript">
+    //Gandalf Dynamic Filters
+    DynamicFilters(
+        {"Stats":[{"Name":"attack","Label":"Attack","ID":"filter-attack","Type":"num","Watermark":null},{"Name":"cost","Label":"Cost","ID":"filter-cost","Type":"num","Watermark":null},{"Name":"health","Label":"Health","ID":"filter-health","Type":"num","Watermark":null}],"Types":[{"Name":"type","Label":"Card Type","ID":"filter-type","Type":"dropdown","Values":{"3":"Hero","4":"Minion","5":"Ability","7":"Weapon","10":"Hero Power","11":"Playable Hero"},"SortByLabel":false},{"Name":"set","Label":"Set","ID":"filter-set","Type":"dropdown","Values":{"103":"The Grand Tournament","101":"Goblins vs Gnomes","100":"Curse of Naxxramas","2":"Basic","3":"Classic","4":"Hall of Fame","5":"Missions","102":"Blackrock Mountain","17":"Hero Skins","18":"Tavern Brawl","104":"League of Explorers","105":"Whispers of the Old Gods","106":"One Night in Karazhan","107":"Mean Streets of Gadgetzan","108":"Journey to Un'Goro","109":"Knights of the Frozen Throne","110":"Kobolds and Catacombs","111":"The Witchwood","112":"Taverns of Time","113":"The Boomsday Project"},"SortByLabel":false},{"Name":"race","Label":"Race / Tribe","ID":"filter-race","Type":"dropdown","Values":{"8":"Orc","14":"Murloc","15":"Demon","17":"Mechanical","18":"Elemental","20":"Beast","21":"Totem","23":"Pirate","24":"Dragon"},"SortByLabel":false},{"Name":"family","Label":"Family","ID":"filter-family","Type":"dropdown","Values":{"1":"Grimy Goons","2":"Kabal","3":"Jade Lotus"},"SortByLabel":false},{"Name":"premium","Label":"Collectible","ID":"filter-premium","Type":"yn"},{"Name":"token","Label":"Token","ID":"filter-token","Type":"yn"},{"Name":"unreleased","Label":"Include Unreleased?","ID":"filter-unreleased","Type":"yn"},{"Name":"no-rarity","Label":"No Rarity","ID":"filter-no-rarity","Type":"yn"},{"Name":"any-class","Label":"Any Class","ID":"filter-any-class","Type":"yn"},{"Name":"boss-cards","Label":"Boss Card","ID":"filter-boss-cards","Type":"yn"},{"Name":"elite","Label":"Elite","ID":"filter-elite","Type":"yn"},{"Name":"faction","Label":"Faction","ID":"filter-faction","Type":"dropdown","Values":{"1":"Horde","2":"Alliance","3":"Neutral"},"SortByLabel":false}],"Mechanics":[{"Name":"adapt","Label":"Adapt","ID":"filter-adapt","Type":"yn"},{"Name":"battlecry","Label":"Battlecry","ID":"filter-battlecry","Type":"yn"},{"Name":"charge","Label":"Charge","ID":"filter-charge","Type":"yn"},{"Name":"chooseone","Label":"Choose One","ID":"filter-chooseone","Type":"yn"},{"Name":"combo","Label":"Combo","ID":"filter-combo","Type":"yn"},{"Name":"deathrattle","Label":"Deathrattle","ID":"filter-deathrattle","Type":"yn"},{"Name":"discover","Label":"Discover","ID":"filter-discover","Type":"yn"},{"Name":"divineshield","Label":"Divine Shield","ID":"filter-divineshield","Type":"yn"},{"Name":"enrage","Label":"Enrage","ID":"filter-enrage","Type":"yn"},{"Name":"freeze","Label":"Freeze","ID":"filter-freeze","Type":"yn"},{"Name":"immune","Label":"Immune","ID":"filter-immune","Type":"yn"},{"Name":"inspire","Label":"Inspire","ID":"filter-inspire","Type":"yn"},{"Name":"joust","Label":"Joust","ID":"filter-joust","Type":"yn"},{"Name":"lifesteal","Label":"Lifesteal","ID":"filter-lifesteal","Type":"yn"},{"Name":"megawindfury","Label":"Mega-WindFury","ID":"filter-megawindfury","Type":"yn"},{"Name":"overload","Label":"Overload","ID":"filter-overload","Type":"yn"},{"Name":"quest","Label":"Quest","ID":"filter-quest","Type":"yn"},{"Name":"recruit","Label":"Recruit","ID":"filter-recruit","Type":"yn"},{"Name":"secret","Label":"Secret","ID":"filter-secret","Type":"yn"},{"Name":"silence","Label":"Silence","ID":"filter-silence","Type":"yn"},{"Name":"spelldamage","Label":"Spell Damage","ID":"filter-spelldamage","Type":"yn"},{"Name":"stealth","Label":"Stealth","ID":"filter-stealth","Type":"yn"},{"Name":"summon","Label":"Summon","ID":"filter-summon","Type":"yn"},{"Name":"taunt","Label":"Taunt","ID":"filter-taunt","Type":"yn"},{"Name":"transform","Label":"Transform","ID":"filter-transform","Type":"yn"},{"Name":"windfury","Label":"Windfury","ID":"filter-windfury","Type":"yn"},{"Name":"echo","Label":"Echo","ID":"filter-echo","Type":"yn"},{"Name":"rush","Label":"Rush","ID":"filter-rush","Type":"yn"},{"Name":"startofgame","Label":"Start of Game","ID":"filter-startofgame","Type":"yn"},{"Name":"poisonous","Label":"Poisonous","ID":"filter-poisonous","Type":"yn"},{"Name":"magnetic","Label":"Magnetic","ID":"filter-magnetic","Type":"yn"}],"Arcane Dust":[{"Name":"dust-cost","Label":"Dust Cost","ID":"filter-dust-cost","Type":"num","Watermark":null},{"Name":"golden-dust-cost","Label":"Golden Dust Cost","ID":"filter-golden-dust-cost","Type":"num","Watermark":null},{"Name":"disenchant-dust","Label":"Arcane Dust Gained","ID":"filter-disenchant-dust","Type":"num","Watermark":null},{"Name":"disenchant-golden-dust","Label":"Arcane Dust Gained (Golden)","ID":"filter-disenchant-golden-dust","Type":"num","Watermark":null}]}
+    );
+</script> 
+            <div class="filter-actions"> 
+             <input type="submit" value="Filter"> 
+             <span id="clear-all-filters">clear all</span> 
+            </div> 
+           </form> 
+          </div> 
+          <div class="b-pagination b-pagination-a"> 
+           <ul class="b-pagination-list paging-list j-tablesorter-pager j-listing-pagination" data-viewstate="" style=""> 
+            <li class="b-pagination-item"><span class="b-pagination-item s-active active">1</span></li>
+            <li class="b-pagination-item"><a href="/cards?page=2" class="b-pagination-item">2</a></li>
+            <li class="b-pagination-item"><a href="/cards?page=3" class="b-pagination-item">3</a></li>
+            <li class="b-pagination-item"><a href="/cards?page=4" class="b-pagination-item">4</a></li>
+            <li class="b-pagination-item"><a href="/cards?page=5" class="b-pagination-item">5</a></li>
+            <li class="dots">…</li>
+            <li class="b-pagination-item"><a href="/cards?page=42" class="b-pagination-item">42</a></li>
+            <li class="b-pagination-item b-pagination-item-next"><a href="/cards?page=2" rel="next" data-next-page>Next</a></li> 
+           </ul> 
+           <ul style="float: right" class="b-pagination-list subtabs-list j-tablesorter-pager j-listing-pagination"> 
+            <li class="b-pagination-item"><span class="b-pagination-item s-active active">Visual</span></li> 
+            <li class="b-pagination-item"><a class="b-pagination-item" href="/cards?display=3">Images</a></li> 
+            <li class="b-pagination-item"><a class="b-pagination-item" href="/cards?display=1">Listing</a></li> 
+           </ul> 
+          </div> 
+         </div>
+         <div class="listing-body"> 
+          <table class="listing cards-visual listing-cards b-table b-table-a" data-viewstate="" data-ajax-set-window-state="true" id="cards" data-row-selector=">tbody>tr"> 
+           <thead class="b-table-header j-listing-table-header"> 
+            <tr> 
+            </tr> 
+           </thead> 
+           <tbody> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/14711-golemagg" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/372/891/636627613047130898.png" width="286" height="395" data-href="/cards/14711-golemagg" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/14/711/14711.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/368/699/636590878365871568.gif" data-goldurl="https://media-hearth.cursecdn.com/avatars/372/892/636627613050081231.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/372/891/636627613047130898.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/14711-golemagg" data-disable-tip="false" class="rarity-5 set-18">Golemagg</a></h3> <p>Costs (1) less for each damage your hero has taken.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Crafting Cost: 0 / 0 (Golden)</li> 
+               <li>Arcane Dust Gained: 0 / 0 (Golden)</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/94-molten-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/377/121/636690965488896022.png" width="286" height="395" data-href="/cards/94-molten-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/0/94/94.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/370/2/636591518859766200.gif" data-goldurl="https://media-hearth.cursecdn.com/avatars/370/3/636591518868566995.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/377/121/636690965488896022.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/94-molten-giant" data-disable-tip="false" class="rarity-4 set-4">Molten Giant</a></h3> <p>Costs (1) less for each damage your hero has taken.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=4">Hall of Fame</a></li> 
+               <li>Race: <a href="/cards?filter-race=18">Elemental</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Glenn Rane</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>He gets terrible heartburn. BECAUSE HE IS FULL OF LAVA.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/42049-arcane-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/331/935/42049.png" width="286" height="395" data-href="/cards/42049-arcane-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/42/49/42049.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/331/937/42049.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/331/937/42049.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/331/935/42049.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/42049-arcane-giant" data-disable-tip="false" class="rarity-4 set-106">Arcane Giant</a></h3> <p>[x]Costs (1) less for each spell<br>you've cast this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=106">One Night in Karazhan</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Dan Scott</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Claims to be drawn to Karazhan because of the ley lines. Actually, just loves Moroes’ cooking.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/12201-clockwork-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/331/698/12201.png" width="286" height="395" data-href="/cards/12201-clockwork-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/12/201/12201.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/331/700/12201.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/331/700/12201.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/331/698/12201.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/12201-clockwork-giant" data-disable-tip="false" class="rarity-4 set-101">Clockwork Giant</a></h3> <p>Costs (1) less for each card in your opponent's hand.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=101">Goblins vs Gnomes</a></li> 
+               <li>Race: <a href="/cards?filter-race=17">Mechanical</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Dan Scott</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>He and Mountain Giant don't get along.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/264-mountain-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/377/122/636690965742533594.png" width="286" height="395" data-href="/cards/264-mountain-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/0/264/264.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/330/506/264.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/330/506/264.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/377/122/636690965742533594.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/264-mountain-giant" data-disable-tip="false" class="rarity-4 set-3">Mountain Giant</a></h3> <p>Costs (1) less for each spell you've cast this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=3">Classic</a></li> 
+               <li>Race: <a href="/cards?filter-race=18">Elemental</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Samwise</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>His mother said that he was just big boned.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/55460-nether-portal" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/335/136/55460.png" width="286" height="395" data-href="/cards/55460-nether-portal" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/55/460/55460.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/335/138/55460.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/335/138/55460.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/335/136/55460.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/55460-nether-portal" data-disable-tip="false" class="rarity-0 set-108">Nether Portal</a></h3> <p>At the end of your turn, summon two 3/2 Imps.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=512"><span class="class-warlock"></span> Warlock</a></li> 
+               <li>Set: <a href="/cards?filter-set=108">Journey to Un'Goro</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/42151-red-portal" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/332/247/42151.png" width="286" height="395" data-href="/cards/42151-red-portal" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/42/151/42151.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/332/249/42151.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/332/249/42151.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/332/247/42151.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/42151-red-portal" data-disable-tip="false" class="rarity-0 set-106">Red Portal</a></h3> <p>The character in the red beam has <b>Windfury</b>.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=106">One Night in Karazhan</a></li> 
+               <li>Artist: Josh Harris</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/55458-sherazin-seed" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/935/55458.png" width="286" height="395" data-href="/cards/55458-sherazin-seed" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/55/458/55458.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/937/55458.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/937/55458.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/935/55458.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/55458-sherazin-seed" data-disable-tip="false" class="rarity-0 set-108">Sherazin, Seed</a></h3> <p>When you play 4 cards in a turn, revive this minion.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=128"><span class="class-rogue"></span> Rogue</a></li> 
+               <li>Set: <a href="/cards?filter-set=108">Journey to Un'Goro</a></li> 
+               <li>Artist: Matt Dixon</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/62918-snowfury-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/339/446/62918.png" width="286" height="395" data-href="/cards/62918-snowfury-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/62/918/62918.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/339/448/62918.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/339/448/62918.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/339/446/62918.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/62918-snowfury-giant" data-disable-tip="false" class="rarity-4 set-109">Snowfury Giant</a></h3> <p>Costs (1) less for each Mana Crystal you've <b><b>Overload</b>ed</b> this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=256"><span class="class-shaman"></span> Shaman</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=109">Knights of the Frozen Throne</a></li> 
+               <li>Race: <a href="/cards?filter-race=18">Elemental</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Steve Prescott</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>This minion goes all the way to 11!</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/62934-bloodreaver-guldan" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/340/191/62934.png" width="286" height="395" data-href="/cards/62934-bloodreaver-guldan" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/62/934/62934.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/340/212/62934.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/340/212/62934.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/340/191/62934.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/62934-bloodreaver-guldan" data-disable-tip="false" class="rarity-5 set-109">Bloodreaver Gul'dan</a></h3> <p><b>Battlecry:</b> Summon all friendly Demons that died this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/playable-hero">Playable Hero</a></li> 
+               <li>Class: <a href="/cards?filter-class=512"><span class="class-warlock"></span> Warlock</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=109">Knights of the Frozen Throne</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Alex Horley Orlandelli</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>"Still you refuse to bend your knee? None can escape death, you old fool. And in death… all will serve me…"</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/52611-decorate" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/449/52611.png" width="286" height="395" data-href="/cards/52611-decorate" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/52/611/52611.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/451/52611.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/451/52611.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/449/52611.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/52611-decorate" data-disable-tip="false" class="rarity-0 set-18">Decorate</a></h3> <p><b>Hero Power</b><br>Create *{0}* |4(decoration, decorations) for the Tavern.<br>Progress: {1}/25</p> 
+              <ul> 
+               <li>Type: <a href="/cards/hero-power">Hero Power</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/77342-stolen-time" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/357/149/77342.png" width="286" height="395" data-href="/cards/77342-stolen-time" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/77/342/77342.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/357/151/77342.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/357/151/77342.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/357/149/77342.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/77342-stolen-time" data-disable-tip="false" class="rarity-0 set-110">Stolen Time</a></h3> <p><b>Hero Power</b><br>Destroy 3 of your Mana Crystals.<br>Take an extra turn.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/hero-power">Hero Power</a></li> 
+               <li>Set: <a href="/cards?filter-set=110">Kobolds and Catacombs</a></li> 
+               <li>Artist: Adam Byrne</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/62977-a-new-hero-approaches" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/339/205/62977.png" width="286" height="395" data-href="/cards/62977-a-new-hero-approaches" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/62/977/62977.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/339/207/62977.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/339/207/62977.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/339/205/62977.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/62977-a-new-hero-approaches" data-disable-tip="false" class="rarity-0 set-18">A New Hero Approaches</a></h3> <p>Destroy all minions. Drain all Mana.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27240-anyfin-can-happen" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/332/463/27240.png" width="286" height="395" data-href="/cards/27240-anyfin-can-happen" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/240/27240.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/332/465/27240.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/332/465/27240.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/332/463/27240.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27240-anyfin-can-happen" data-disable-tip="false" class="rarity-3 set-104">Anyfin Can Happen</a></h3> <p>Summon 7 Murlocs that died this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Class: <a href="/cards?filter-class=32"><span class="class-paladin"></span> Paladin</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=8" class="rarity-3">Rare</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li>Crafting Cost: 100 / 800 (Golden)</li> 
+               <li>Arcane Dust Gained: 20 / 100 (Golden)</li> 
+               <li>Artist: Ryan Metcalf</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Theme song by Ellie Goldfin and Blagghghlrlrl Harris.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/63111-army-of-the-dead" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/339/826/63111.png" width="286" height="395" data-href="/cards/63111-army-of-the-dead" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/63/111/63111.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/339/828/63111.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/339/828/63111.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/339/826/63111.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/63111-army-of-the-dead" data-disable-tip="false" class="rarity-0 set-109">Army of the Dead</a></h3> <p>Summon seven 3/3 Ghouls with <b>Taunt</b>.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Class: <a href="/cards?filter-class=2"><span class="class-death-knight"></span> Death Knight</a></li> 
+               <li>Set: <a href="/cards?filter-set=109">Knights of the Frozen Throne</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/62962-calling-for-backup" data-disable-tip="true"> <img class="hscard-static" src="" width="286" height="395" data-href="/cards/62962-calling-for-backup" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/62/962/62962.webm" data-gifurl="" data-goldurl="" data-imageurl="" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/62962-calling-for-backup" data-disable-tip="false" class="rarity-0 set-18">Calling for Backup</a></h3> <p>Choose the next Hero.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/33129-doom" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/864/33129.png" width="286" height="395" data-href="/cards/33129-doom" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/33/129/33129.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/866/33129.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/866/33129.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/864/33129.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/33129-doom" data-disable-tip="false" class="rarity-4 set-105">DOOM!</a></h3> <p>Destroy all minions. Draw a card for each.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Class: <a href="/cards?filter-class=512"><span class="class-warlock"></span> Warlock</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Raymond Swanland</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>We ran out of space for "DOOOOOOOOOOOM!!!!!"</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49824-felbloom" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/229/49824.png" width="286" height="395" data-href="/cards/49824-felbloom" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/824/49824.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/231/49824.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/231/49824.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/229/49824.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49824-felbloom" data-disable-tip="false" class="rarity-0 set-107">Felbloom</a></h3> <p>Deal 6 damage to all minions.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49823-goldthorn" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/226/49823.png" width="286" height="395" data-href="/cards/49823-goldthorn" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/823/49823.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/228/49823.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/228/49823.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/226/49823.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49823-goldthorn" data-disable-tip="false" class="rarity-0 set-107">Goldthorn</a></h3> <p>Give your minions +6 Health.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49815-heart-of-fire" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/202/49815.png" width="286" height="395" data-href="/cards/49815-heart-of-fire" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/815/49815.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/204/49815.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/204/49815.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/202/49815.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49815-heart-of-fire" data-disable-tip="false" class="rarity-0 set-107">Heart of Fire</a></h3> <p>Deal 8 damage.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49817-icecap" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/208/49817.png" width="286" height="395" data-href="/cards/49817-icecap" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/817/49817.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/210/49817.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/210/49817.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/208/49817.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49817-icecap" data-disable-tip="false" class="rarity-0 set-107">Icecap</a></h3> <p><b>Freeze</b> 3 random enemy minions.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49827-ichor-of-undeath" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/238/49827.png" width="286" height="395" data-href="/cards/49827-ichor-of-undeath" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/827/49827.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/240/49827.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/240/49827.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/238/49827.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49827-ichor-of-undeath" data-disable-tip="false" class="rarity-0 set-107">Ichor of Undeath</a></h3> <p>Summon 3 friendly minions that died this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49804-kazakus-potion" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/169/49804.png" width="286" height="395" data-href="/cards/49804-kazakus-potion" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/804/49804.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/171/49804.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/171/49804.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/169/49804.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49804-kazakus-potion" data-disable-tip="false" class="rarity-0 set-107">Kazakus Potion</a></h3> <p>{0}<br>{1}</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49821-kingsblood" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/220/49821.png" width="286" height="395" data-href="/cards/49821-kingsblood" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/821/49821.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/222/49821.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/222/49821.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/220/49821.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49821-kingsblood" data-disable-tip="false" class="rarity-0 set-107">Kingsblood</a></h3> <p>Draw 3 cards.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27259-lantern-of-power" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/54/27259.png" width="286" height="395" data-href="/cards/27259-lantern-of-power" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/259/27259.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/56/27259.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/56/27259.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/54/27259.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27259-lantern-of-power" data-disable-tip="false" class="rarity-0 set-104">Lantern of Power</a></h3> <p>Give a minion +10/+10.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/401-mind-control" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/862/401.png" width="286" height="395" data-href="/cards/401-mind-control" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/0/401/401.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/864/401.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/864/401.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/862/401.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/401-mind-control" data-disable-tip="false" class="rarity-2 set-2">Mind Control</a></h3> <p>Take control of an enemy minion.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Class: <a href="/cards?filter-class=64"><span class="class-priest"></span> Priest</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=4" class="rarity-2">Free</a></li> 
+               <li>Set: <a href="/cards?filter-set=2">Basic</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Artist: Sean O’Daniels</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Nominated as "Spell Most Likely to Make Your Opponent Punch the Wall."</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27257-mirror-of-doom" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/60/27257.png" width="286" height="395" data-href="/cards/27257-mirror-of-doom" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/257/27257.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/62/27257.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/62/27257.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/60/27257.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27257-mirror-of-doom" data-disable-tip="false" class="rarity-0 set-104">Mirror of Doom</a></h3> <p>Fill your board with 3/3 Mummy Zombies.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49819-mystic-wool" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/214/49819.png" width="286" height="395" data-href="/cards/49819-mystic-wool" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/819/49819.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/216/49819.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/216/49819.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/214/49819.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49819-mystic-wool" data-disable-tip="false" class="rarity-0 set-107">Mystic Wool</a></h3> <p>Transform all minions into 1/1 Sheep.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49818-netherbloom" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/211/49818.png" width="286" height="395" data-href="/cards/49818-netherbloom" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/818/49818.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/213/49818.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/213/49818.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/211/49818.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49818-netherbloom" data-disable-tip="false" class="rarity-0 set-107">Netherbloom</a></h3> <p>Summon an 8/8 Demon.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/496-pyroblast" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/330/713/496.png" width="286" height="395" data-href="/cards/496-pyroblast" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/0/496/496.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/330/715/496.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/330/715/496.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/330/713/496.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/496-pyroblast" data-disable-tip="false" class="rarity-4 set-3">Pyroblast</a></h3> <p>Deal 10 damage.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Class: <a href="/cards?filter-class=16"><span class="class-mage"></span> Mage</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=3">Classic</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Luca Zontini</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Take the time for an evil laugh after you draw this card.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/77189-rod-of-roasting" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/356/744/77189.png" width="286" height="395" data-href="/cards/77189-rod-of-roasting" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/77/189/77189.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/356/746/77189.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/356/746/77189.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/356/744/77189.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/77189-rod-of-roasting" data-disable-tip="false" class="rarity-0 set-110">Rod of Roasting</a></h3> <p>Cast 'Pyroblast' randomly until a hero dies.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=110">Kobolds and Catacombs</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Artist: James Ryman</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49822-shadow-oil" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/223/49822.png" width="286" height="395" data-href="/cards/49822-shadow-oil" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/822/49822.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/225/49822.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/225/49822.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/223/49822.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49822-shadow-oil" data-disable-tip="false" class="rarity-0 set-107">Shadow Oil</a></h3> <p>Add 3 random Demons to your hand.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49816-stonescale-oil" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/205/49816.png" width="286" height="395" data-href="/cards/49816-stonescale-oil" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/816/49816.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/207/49816.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/207/49816.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/205/49816.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49816-stonescale-oil" data-disable-tip="false" class="rarity-0 set-107">Stonescale Oil</a></h3> <p>Gain 10 Armor.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49802-superior-potion" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/163/49802.png" width="286" height="395" data-href="/cards/49802-superior-potion" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/802/49802.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/165/49802.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/165/49802.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/163/49802.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49802-superior-potion" data-disable-tip="false" class="rarity-0 set-107">Superior Potion</a></h3> <p>Create a 10-Cost spell.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27258-timepiece-of-horror" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/57/27258.png" width="286" height="395" data-href="/cards/27258-timepiece-of-horror" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/258/27258.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/59/27258.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/59/27258.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/57/27258.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27258-timepiece-of-horror" data-disable-tip="false" class="rarity-0 set-104">Timepiece of Horror</a></h3> <p>Deal 10 damage randomly split among all enemies.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/62879-ultimate-infestation" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/339/431/62879.png" width="286" height="395" data-href="/cards/62879-ultimate-infestation" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/62/879/62879.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/339/433/62879.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/339/433/62879.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/339/431/62879.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/62879-ultimate-infestation" data-disable-tip="false" class="rarity-4 set-109">Ultimate Infestation</a></h3> <p>[x]Deal 5 damage. Draw<br>5 cards. Gain 5 Armor.<br>Summon a 5/5 Ghoul.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Class: <a href="/cards?filter-class=4"><span class="class-druid"></span> Druid</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=109">Knights of the Frozen Throne</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Slawomir Maniak</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Ghouls in the pipe, five by five.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/77180-wish" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/356/723/77180.png" width="286" height="395" data-href="/cards/77180-wish" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/77/180/77180.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/356/725/77180.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/356/725/77180.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/356/723/77180.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/77180-wish" data-disable-tip="false" class="rarity-0 set-110">Wish</a></h3> <p>Fill your board with <b>Legendary</b> minions. Fully heal your hero.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=110">Kobolds and Catacombs</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Artist: Arthur Bozonnet</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/58771-your-next-victim-comes" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/677/58771.png" width="286" height="395" data-href="/cards/58771-your-next-victim-comes" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/58/771/58771.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/679/58771.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/679/58771.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/677/58771.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/58771-your-next-victim-comes" data-disable-tip="false" class="rarity-0 set-18">Your Next Victim Comes</a></h3> <p>Destroy all minions. Drain all Mana. Gain 5 Health.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/ability">Ability</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27444-animated-statue" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/332/985/27444.png" width="286" height="395" data-href="/cards/27444-animated-statue" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/444/27444.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/332/987/27444.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/332/987/27444.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/332/985/27444.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27444-animated-statue" data-disable-tip="false" class="rarity-0 set-104">Animated Statue</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27457-archaedas" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/18/27457.png" width="286" height="395" data-href="/cards/27457-archaedas" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/457/27457.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/20/27457.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/20/27457.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/18/27457.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27457-archaedas" data-disable-tip="false" class="rarity-0 set-104">Archaedas</a></h3> <p>At the end of your turn, turn a random enemy minion into a 0/2 Statue.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/73328-azari-the-devourer" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/356/645/77139.png" width="286" height="395" data-href="/cards/73328-azari-the-devourer" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/73/328/73328.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/356/647/77139.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/356/647/77139.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/356/645/77139.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/73328-azari-the-devourer" data-disable-tip="false" class="rarity-0 set-110">Azari, the Devourer</a></h3> <p><b>Battlecry:</b> Destroy your opponent's deck.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=512"><span class="class-warlock"></span> Warlock</a></li> 
+               <li>Set: <a href="/cards?filter-set=110">Kobolds and Catacombs</a></li> 
+               <li>Race: <a href="/cards?filter-race=15">Demon</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27455-chieftain-scarvash" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/12/27455.png" width="286" height="395" data-href="/cards/27455-chieftain-scarvash" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/455/27455.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/14/27455.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/14/27455.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/12/27455.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27455-chieftain-scarvash" data-disable-tip="false" class="rarity-0 set-104">Chieftain Scarvash</a></h3> <p>Enemy cards cost (2) more.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/35334-cthun" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/915/35334.png" width="286" height="395" data-href="/cards/35334-cthun" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/35/334/35334.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/917/35334.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/917/35334.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/915/35334.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/35334-cthun" data-disable-tip="false" class="rarity-5 set-105">C'Thun</a></h3> <p><b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/31110-cthun" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/918/31110.png" width="286" height="395" data-href="/cards/31110-cthun" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/31/110/31110.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/920/31110.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/920/31110.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/918/31110.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/31110-cthun" data-disable-tip="false" class="rarity-5 set-105">C'Thun</a></h3> <p><b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: James Ryman</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>C'Thun's least favorite Hearthstone card: Eye for an Eye.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/474-deathwing" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/367/425/636582230078286690.png" width="286" height="395" data-href="/cards/474-deathwing" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/0/474/474.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/518/474.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/518/474.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/367/425/636582230078286690.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/474-deathwing" data-disable-tip="false" class="rarity-5 set-3">Deathwing</a></h3> <p><b>Battlecry:</b> Destroy all other minions and discard your hand.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=3">Classic</a></li> 
+               <li>Race: <a href="/cards?filter-race=24">Dragon</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Bernie Kang</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated. Daddy issues?</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/33177-deathwing-dragonlord" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/993/33177.png" width="286" height="395" data-href="/cards/33177-deathwing-dragonlord" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/33/177/33177.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/995/33177.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/995/33177.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/993/33177.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/33177-deathwing-dragonlord" data-disable-tip="false" class="rarity-5 set-105">Deathwing, Dragonlord</a></h3> <p><b>Deathrattle:</b> Put all Dragons from your hand into the battlefield.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Race: <a href="/cards?filter-race=24">Dragon</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Alex Horley Orlandelli</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>To his credit, Deathwing really took to heart the feedback he was receiving that he needed to be "more of a team player".</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/89370-emeriss" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/368/822/636590938155463401.png" width="286" height="395" data-href="/cards/89370-emeriss" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/89/370/89370.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/368/823/636590938157403633.gif" data-goldurl="https://media-hearth.cursecdn.com/avatars/368/824/636590938160043893.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/368/822/636590938155463401.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/89370-emeriss" data-disable-tip="false" class="rarity-5 set-111">Emeriss</a></h3> <p><b>Battlecry:</b> Double the Attack and Health of all minions in_your hand.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=8"><span class="class-hunter"></span> Hunter</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=111">The Witchwood</a></li> 
+               <li>Race: <a href="/cards?filter-race=24">Dragon</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: James Ryman</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Taste your world's corruption! It tastes like chicken.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/35249-faceless-behemoth" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/735/35249.png" width="286" height="395" data-href="/cards/35249-faceless-behemoth" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/35/249/35249.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/737/35249.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/737/35249.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/735/35249.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/35249-faceless-behemoth" data-disable-tip="false" class="rarity-1 set-105">Faceless Behemoth</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=2" class="rarity-1">Common</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Crafting Cost: 40 / 400 (Golden)</li> 
+               <li>Arcane Dust Gained: 5 / 50 (Golden)</li> 
+               <li>Artist: Zoltan Boros</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Rejected names: Forty-Foot Faceless, Big ol' No-face, Huge Creature Sans Face, Teddy.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49913-force-tank-omega-max" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/302/49913.png" width="286" height="395" data-href="/cards/49913-force-tank-omega-max" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/913/49913.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/304/49913.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/304/49913.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/302/49913.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49913-force-tank-omega-max" data-disable-tip="false" class="rarity-1 set-18">Force-Tank OMEGA MAX</a></h3> <p><b>Divine Shield.</b><br><b>Battlecry:</b> Summon six Annoy-o-Trons</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=2" class="rarity-1">Common</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Race: <a href="/cards?filter-race=17">Mechanical</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/22262-frost-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/328/160/22262.png" width="286" height="395" data-href="/cards/22262-frost-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/22/262/22262.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/328/162/22262.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/328/162/22262.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/328/160/22262.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/22262-frost-giant" data-disable-tip="false" class="rarity-4 set-103">Frost Giant</a></h3> <p>Costs (1) less for each time you used your Hero Power this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=103">The Grand Tournament</a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Greg Staples</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Don't ask him about the beard. JUST DON'T.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27509-gearmaster-mechazod" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/331/761/27509.png" width="286" height="395" data-href="/cards/27509-gearmaster-mechazod" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/509/27509.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/331/763/27509.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/331/763/27509.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/331/761/27509.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27509-gearmaster-mechazod" data-disable-tip="false" class="rarity-0 set-18">Gearmaster Mechazod</a></h3> <p><b>Boss</b><br>At the beginning of each turn, Mechazod strikes!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/58739-gearmaster-mechazod" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/331/764/58739.png" width="286" height="395" data-href="/cards/58739-gearmaster-mechazod" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/58/739/58739.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/331/766/58739.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/331/766/58739.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/331/764/58739.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/58739-gearmaster-mechazod" data-disable-tip="false" class="rarity-0 set-18">Gearmaster Mechazod</a></h3> <p><b>Boss</b><br>At the beginning of each turn, Mechazod strikes!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49895-gearmaster-mechazod" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/158/49895.png" width="286" height="395" data-href="/cards/49895-gearmaster-mechazod" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/895/49895.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/160/49895.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/160/49895.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/158/49895.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49895-gearmaster-mechazod" data-disable-tip="false" class="rarity-0 set-18">Gearmaster Mechazod</a></h3> <p><b>Boss</b><br>Mechazod wins if he defeats either of you!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27516-gearmaster-mechazod" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/161/27516.png" width="286" height="395" data-href="/cards/27516-gearmaster-mechazod" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/516/27516.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/163/27516.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/163/27516.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/161/27516.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27516-gearmaster-mechazod" data-disable-tip="false" class="rarity-0 set-18">Gearmaster Mechazod</a></h3> <p><b>Boss</b><br>Mechazod wins if he defeats either of you!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27461-giantfin" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/30/27461.png" width="286" height="395" data-href="/cards/27461-giantfin" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/461/27461.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/32/27461.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/32/27461.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/30/27461.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27461-giantfin" data-disable-tip="false" class="rarity-0 set-104">Giantfin</a></h3> <p>At the end of your turn, draw 2 cards.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li>Race: <a href="/cards?filter-race=14">Murloc</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/63185-headless-horsemans-head" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/348/717/63185.png" width="286" height="395" data-href="/cards/63185-headless-horsemans-head" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/63/185/63185.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/348/719/63185.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/348/719/63185.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/348/717/63185.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/63185-headless-horsemans-head" data-disable-tip="false" class="rarity-0 set-18">Headless Horseman's Head</a></h3> <p>Destroy his head to win the game, but watch out for fireballs!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49878-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/487/49878.png" width="286" height="395" data-href="/cards/49878-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/878/49878.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/489/49878.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/489/49878.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/487/49878.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49878-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49877-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/484/49877.png" width="286" height="395" data-href="/cards/49877-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/877/49877.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/486/49877.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/486/49877.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/484/49877.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49877-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49876-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/481/49876.png" width="286" height="395" data-href="/cards/49876-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/876/49876.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/483/49876.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/483/49876.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/481/49876.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49876-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49875-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/478/49875.png" width="286" height="395" data-href="/cards/49875-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/875/49875.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/480/49875.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/480/49875.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/478/49875.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49875-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49874-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/475/49874.png" width="286" height="395" data-href="/cards/49874-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/874/49874.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/477/49874.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/477/49874.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/475/49874.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49874-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49873-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/472/49873.png" width="286" height="395" data-href="/cards/49873-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/873/49873.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/474/49873.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/474/49873.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/472/49873.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49873-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49872-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/469/49872.png" width="286" height="395" data-href="/cards/49872-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/872/49872.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/471/49872.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/471/49872.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/469/49872.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49872-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49871-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/466/49871.png" width="286" height="395" data-href="/cards/49871-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/871/49871.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/468/49871.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/468/49871.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/466/49871.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49871-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49870-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/463/49870.png" width="286" height="395" data-href="/cards/49870-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/870/49870.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/465/49870.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/465/49870.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/463/49870.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49870-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49869-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/460/49869.png" width="286" height="395" data-href="/cards/49869-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/869/49869.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/462/49869.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/462/49869.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/460/49869.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49869-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49868-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/457/49868.png" width="286" height="395" data-href="/cards/49868-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/868/49868.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/459/49868.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/459/49868.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/457/49868.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49868-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49867-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/454/49867.png" width="286" height="395" data-href="/cards/49867-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/867/49867.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/456/49867.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/456/49867.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/454/49867.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49867-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49866-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/451/49866.png" width="286" height="395" data-href="/cards/49866-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/866/49866.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/453/49866.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/453/49866.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/451/49866.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49866-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49865-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/448/49865.png" width="286" height="395" data-href="/cards/49865-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/865/49865.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/450/49865.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/450/49865.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/448/49865.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49865-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49864-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/445/49864.png" width="286" height="395" data-href="/cards/49864-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/864/49864.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/447/49864.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/447/49864.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/445/49864.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49864-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49863-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/442/49863.png" width="286" height="395" data-href="/cards/49863-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/863/49863.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/444/49863.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/444/49863.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/442/49863.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49863-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49862-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/439/49862.png" width="286" height="395" data-href="/cards/49862-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/862/49862.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/441/49862.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/441/49862.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/439/49862.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49862-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49861-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/436/49861.png" width="286" height="395" data-href="/cards/49861-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/861/49861.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/438/49861.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/438/49861.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/436/49861.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49861-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49860-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/433/49860.png" width="286" height="395" data-href="/cards/49860-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/860/49860.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/435/49860.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/435/49860.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/433/49860.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49860-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49859-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/430/49859.png" width="286" height="395" data-href="/cards/49859-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/859/49859.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/432/49859.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/432/49859.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/430/49859.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49859-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49879-jade-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/490/49879.png" width="286" height="395" data-href="/cards/49879-jade-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/879/49879.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/492/49879.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/492/49879.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/490/49879.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49879-jade-golem" data-disable-tip="false" class="rarity-0 set-107">Jade Golem</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Artist: Konstantin Turovec</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49628-kun-the-forgotten-king" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/329/4/49628.png" width="286" height="395" data-href="/cards/49628-kun-the-forgotten-king" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/628/49628.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/329/6/49628.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/329/6/49628.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/329/4/49628.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49628-kun-the-forgotten-king" data-disable-tip="false" class="rarity-5 set-107">Kun the Forgotten King</a></h3> <p><b>Choose One -</b> Gain 10 Armor; or Refresh your Mana Crystals.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=4"><span class="class-druid"></span> Druid</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=107">Mean Streets of Gadgetzan</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Jon Neimeister</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Aya siphons a bit of Kun's soul to animate each golem in her Jade army. To his credit, he's being a great sport about it.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27463-lady-nazjar" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/36/27463.png" width="286" height="395" data-href="/cards/27463-lady-nazjar" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/463/27463.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/38/27463.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/38/27463.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/36/27463.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27463-lady-nazjar" data-disable-tip="false" class="rarity-0 set-104">Lady Naz'jar</a></h3> <p>At the end of your turn, replace all other minions with new ones of the same Cost.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27459-lord-slitherspear" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/24/27459.png" width="286" height="395" data-href="/cards/27459-lord-slitherspear" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/459/27459.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/26/27459.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/26/27459.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/24/27459.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27459-lord-slitherspear" data-disable-tip="false" class="rarity-0 set-104">Lord Slitherspear</a></h3> <p>At the end of your turn, summon 1/1 Hungry Naga for each enemy minion.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/89877-mechathun" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/376/506/636688328235189935.png" width="286" height="395" data-href="/cards/89877-mechathun" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/89/877/89877.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/376/507/636688328237000119.gif" data-goldurl="https://media-hearth.cursecdn.com/avatars/376/508/636688328240910577.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/376/506/636688328235189935.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/89877-mechathun" data-disable-tip="false" class="rarity-5 set-113">Mecha'thun</a></h3> <p>[x]<b>Deathrattle:</b> If you have no<br>cards in your deck, hand,<br>and battlefield, destroy<br>the enemy hero.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=113">The Boomsday Project</a></li> 
+               <li>Race: <a href="/cards?filter-race=17">Mechanical</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: James Ryman</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>"Your software will fail. Your users will abandon you. You are already obsolete."</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/89814-mulchmuncher" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/376/578/636688329652283387.png" width="286" height="395" data-href="/cards/89814-mulchmuncher" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/89/814/89814.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/376/579/636688329653943626.gif" data-goldurl="https://media-hearth.cursecdn.com/avatars/376/580/636688329659163932.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/376/578/636688329652283387.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/89814-mulchmuncher" data-disable-tip="false" class="rarity-3 set-113">Mulchmuncher</a></h3> <p><b>Rush</b>. Costs (1) less for each friendly Treant that died this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=4"><span class="class-druid"></span> Druid</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=8" class="rarity-3">Rare</a></li> 
+               <li>Set: <a href="/cards?filter-set=113">The Boomsday Project</a></li> 
+               <li>Race: <a href="/cards?filter-race=17">Mechanical</a></li> 
+               <li>Crafting Cost: 100 / 800 (Golden)</li> 
+               <li>Arcane Dust Gained: 20 / 100 (Golden)</li> 
+               <li>Artist: Mike Sass</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>The latest advancement in hippo-botany.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/35395-nefarian" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/266/35395.png" width="286" height="395" data-href="/cards/35395-nefarian" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/35/395/35395.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/268/35395.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/268/35395.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/266/35395.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/35395-nefarian" data-disable-tip="false" class="rarity-5 set-18">Nefarian</a></h3> <p>Can't be targeted by spells.<br><b>Boss: </b>Nefarian wins if he defeats either of you!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Race: <a href="/cards?filter-race=24">Dragon</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/55653-nefarian" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/269/55653.png" width="286" height="395" data-href="/cards/55653-nefarian" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/55/653/55653.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/271/55653.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/271/55653.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/269/55653.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/55653-nefarian" data-disable-tip="false" class="rarity-5 set-18">Nefarian</a></h3> <p>Can't be targeted by spells.<br><b>Boss: </b>Nefarian wins if he defeats either of you!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Race: <a href="/cards?filter-race=24">Dragon</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/49901-nefarian" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/272/49901.png" width="286" height="395" data-href="/cards/49901-nefarian" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/49/901/49901.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/274/49901.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/274/49901.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/272/49901.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/49901-nefarian" data-disable-tip="false" class="rarity-5 set-18">Nefarian</a></h3> <p>Can't be targeted by spells.<br><b>Boss: </b>Nefarian wins if he defeats either of you!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li>Race: <a href="/cards?filter-race=24">Dragon</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/33134-nzoth-the-corruptor" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/726/33134.png" width="286" height="395" data-href="/cards/33134-nzoth-the-corruptor" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/33/134/33134.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/728/33134.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/728/33134.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/726/33134.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/33134-nzoth-the-corruptor" data-disable-tip="false" class="rarity-5 set-105">N'Zoth, the Corruptor</a></h3> <p><b>Battlecry:</b> Summon your <b>Deathrattle</b> minions that died this game.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Tyson Murphy</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Has not been able to get "Under the Sea" out of his head for like FIVE THOUSAND YEARS.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27266-overloaded-mechazod" data-disable-tip="true"> <img class="hscard-static" src="" width="286" height="395" data-href="/cards/27266-overloaded-mechazod" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/266/27266.webm" data-gifurl="" data-goldurl="" data-imageurl="" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27266-overloaded-mechazod" data-disable-tip="false" class="rarity-0 set-18">Overloaded Mechazod</a></h3> <p><b>Boss</b><br>At the beginning of each turn, Mechazod strikes!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/52610-pinata-golem" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/446/52610.png" width="286" height="395" data-href="/cards/52610-pinata-golem" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/52/610/52610.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/448/52610.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/448/52610.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/446/52610.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/52610-pinata-golem" data-disable-tip="false" class="rarity-0 set-18">Piñata Golem</a></h3> <p><b>Boss, Taunt</b>. Can't be targeted by spells. It's full of candy!</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=18">Tavern Brawl</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/52586-pyros" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/334/878/52586.png" width="286" height="395" data-href="/cards/52586-pyros" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/52/586/52586.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/334/880/52586.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/334/880/52586.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/334/878/52586.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/52586-pyros" data-disable-tip="false" class="rarity-5 set-108">Pyros</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=16"><span class="class-mage"></span> Mage</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=108">Journey to Un'Goro</a></li> 
+               <li>Race: <a href="/cards?filter-race=18">Elemental</a></li> 
+               <li>Artist: Mike Sass</li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/614-sea-giant" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/331/52/614.png" width="286" height="395" data-href="/cards/614-sea-giant" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/0/614/614.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/331/54/614.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/331/54/614.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/331/52/614.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/614-sea-giant" data-disable-tip="false" class="rarity-4 set-3">Sea Giant</a></h3> <p>Costs (1) less for each other minion on the battlefield.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=16" class="rarity-4">Epic</a></li> 
+               <li>Set: <a href="/cards?filter-set=3">Classic</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Crafting Cost: 400 / 1600 (Golden)</li> 
+               <li>Arcane Dust Gained: 100 / 400 (Golden)</li> 
+               <li>Artist: Svetlin Velinov</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>See? Giant.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27465-skelesaurus-hex" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/42/27465.png" width="286" height="395" data-href="/cards/27465-skelesaurus-hex" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/465/27465.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/44/27465.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/44/27465.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/42/27465.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27465-skelesaurus-hex" data-disable-tip="false" class="rarity-0 set-104">Skelesaurus Hex</a></h3> <p>At the end of your turn, put a random card in your hand. It costs (0).</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27448-sun-raider-phaerix" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/332/997/27448.png" width="286" height="395" data-href="/cards/27448-sun-raider-phaerix" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/448/27448.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/332/999/27448.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/332/999/27448.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/332/997/27448.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27448-sun-raider-phaerix" data-disable-tip="false" class="rarity-0 set-104">Sun Raider Phaerix</a></h3> <p>Your other minions are <b>Immune</b>.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/7759-thaddius" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/331/231/7759.png" width="286" height="395" data-href="/cards/7759-thaddius" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/7/759/7759.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/331/233/7759.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/331/233/7759.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/331/231/7759.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/7759-thaddius" data-disable-tip="false" class="rarity-0 set-100">Thaddius</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=100">Curse of Naxxramas</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27467-the-steel-sentinel" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/48/27467.png" width="286" height="395" data-href="/cards/27467-the-steel-sentinel" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/467/27467.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/50/27467.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/50/27467.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/48/27467.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27467-the-steel-sentinel" data-disable-tip="false" class="rarity-0 set-104">The Steel Sentinel</a></h3> <p>This minion can only take 1 damage at a time.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/55520-tyrantus" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/335/196/55520.png" width="286" height="395" data-href="/cards/55520-tyrantus" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/55/520/55520.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/335/198/55520.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/335/198/55520.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/335/196/55520.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/55520-tyrantus" data-disable-tip="false" class="rarity-5 set-108">Tyrantus</a></h3> <p>Can't be targeted by spells or Hero Powers.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=4"><span class="class-druid"></span> Druid</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=108">Journey to Un'Goro</a></li> 
+               <li>Race: <a href="/cards?filter-race=20">Beast</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Chris Rahn</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Millennia of evolutionary pressures turned his species into the Faerie Dragons we know today.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/55583-ultrasaur" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/335/91/55583.png" width="286" height="395" data-href="/cards/55583-ultrasaur" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/55/583/55583.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/335/93/55583.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/335/93/55583.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/335/91/55583.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/55583-ultrasaur" data-disable-tip="false" class="rarity-1 set-108">Ultrasaur</a></h3> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=2" class="rarity-1">Common</a></li> 
+               <li>Set: <a href="/cards?filter-set=108">Journey to Un'Goro</a></li> 
+               <li>Race: <a href="/cards?filter-race=20">Beast</a></li> 
+               <li>Faction: <a href="/cards?filter-faction=3"><span class="faction-neutral">Neutral</span></a></li> 
+               <li>Crafting Cost: 40 / 400 (Golden)</li> 
+               <li>Arcane Dust Gained: 5 / 50 (Golden)</li> 
+               <li>Artist: Laurel Austin</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Evolved the really long neck to spy on its neighbors.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/22342-varian-wrynn" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/328/16/22342.png" width="286" height="395" data-href="/cards/22342-varian-wrynn" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/22/342/22342.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/328/18/22342.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/328/18/22342.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/328/16/22342.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/22342-varian-wrynn" data-disable-tip="false" class="rarity-5 set-103">Varian Wrynn</a></h3> <p><b>Battlecry:</b> Draw 3 cards.<br>Put any minions you drew directly into the battlefield.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Class: <a href="/cards?filter-class=1024"><span class="class-warrior"></span> Warrior</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=103">The Grand Tournament</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Wei Wang</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>Leader of the Alliance! Father of Anduin! Also he likes to play Arena, and he averages 12 wins.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/33168-yogg-saron-hopes-end" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/729/33168.png" width="286" height="395" data-href="/cards/33168-yogg-saron-hopes-end" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/33/168/33168.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/731/33168.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/731/33168.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/729/33168.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/33168-yogg-saron-hopes-end" data-disable-tip="false" class="rarity-5 set-105">Yogg-Saron, Hope's End</a></h3> <p><b>Battlecry:</b> Cast a random spell for each spell you've cast this game <i>(targets chosen randomly)</i>.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Tooth</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>I spell your doom... Y-O-U-R D-O-O-M!</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/33156-yshaarj-rage-unbound" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/333/585/33156.png" width="286" height="395" data-href="/cards/33156-yshaarj-rage-unbound" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/33/156/33156.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/333/587/33156.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/333/587/33156.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/333/585/33156.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/33156-yshaarj-rage-unbound" data-disable-tip="false" class="rarity-5 set-105">Y'Shaarj, Rage Unbound</a></h3> <p>At the end of your turn, put a minion from your deck into the battlefield.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Rarity: <a href="/cards?filter-rarity=32" class="rarity-5">Legendary</a></li> 
+               <li>Set: <a href="/cards?filter-set=105">Whispers of the Old Gods</a></li> 
+               <li>Crafting Cost: 1600 / 3200 (Golden)</li> 
+               <li>Arcane Dust Gained: 400 / 1600 (Golden)</li> 
+               <li>Artist: Samwise</li> 
+               <li><span class="tip" title="This card has a chance of being premium (gold).">Collectible</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> 
+              <div class="card-flavor-listing-text"> 
+               <p><i>When he's working out, he binds all that rage back into a ponytail.</i></p> 
+              </div> </td> 
+            </tr> 
+            <tr> 
+             <td class="visual-image-cell"> <a href="/cards/27446-zinaar" data-disable-tip="true"> <img class="hscard-static" src="https://media-hearth.cursecdn.com/avatars/332/991/27446.png" width="286" height="395" data-href="/cards/27446-zinaar" data-usegold="False" data-useanimation="False" data-usevideo="False" data-usegif="False" data-animationurl="https://media-hearth.cursecdn.com/goldCards/27/446/27446.webm" data-gifurl="https://media-hearth.cursecdn.com/avatars/332/993/27446.png" data-goldurl="https://media-hearth.cursecdn.com/avatars/332/993/27446.png" data-imageurl="https://media-hearth.cursecdn.com/avatars/332/991/27446.png" data-width="286" data-height="395"> </a> </td> 
+             <td class="visual-details-cell"> <h3><a href="/cards/27446-zinaar" data-disable-tip="false" class="rarity-0 set-104">Zinaar</a></h3> <p>At the end of your turn, gain a wish.</p> 
+              <ul> 
+               <li>Type: <a href="/cards/minion">Minion</a></li> 
+               <li>Set: <a href="/cards?filter-set=104">League of Explorers</a></li> 
+               <li><span class="tip" title="This card is brought onto the board through card effects.">Token</span></li> 
+               <li><span class="tip" title="Elite cards can be identified by the dragon frame and are more powerful.">Elite</span></li> 
+              </ul> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+         <div class="listing-footer"> 
+          <div class="b-pagination b-pagination-a"> 
+           <ul class="b-pagination-list paging-list j-tablesorter-pager j-listing-pagination" data-viewstate="" style=""> 
+            <li class="b-pagination-item"><span class="b-pagination-item s-active active">1</span></li>
+            <li class="b-pagination-item"><a href="/cards?page=2" class="b-pagination-item">2</a></li>
+            <li class="b-pagination-item"><a href="/cards?page=3" class="b-pagination-item">3</a></li>
+            <li class="b-pagination-item"><a href="/cards?page=4" class="b-pagination-item">4</a></li>
+            <li class="b-pagination-item"><a href="/cards?page=5" class="b-pagination-item">5</a></li>
+            <li class="dots">…</li>
+            <li class="b-pagination-item"><a href="/cards?page=42" class="b-pagination-item">42</a></li>
+            <li class="b-pagination-item b-pagination-item-next"><a href="/cards?page=2" rel="next" data-next-page>Next</a></li> 
+           </ul> 
+           <ul style="float: right" class="b-pagination-list subtabs-list j-tablesorter-pager j-listing-pagination"> 
+            <li class="b-pagination-item"><span class="b-pagination-item s-active active">Visual</span></li> 
+            <li class="b-pagination-item"><a class="b-pagination-item" href="/cards?display=3">Images</a></li> 
+            <li class="b-pagination-item"><a class="b-pagination-item" href="/cards?display=1">Listing</a></li> 
+           </ul> 
+          </div> 
+         </div>
+        </div> 
+       </div> 
+      </section> 
+     </div> 
+    </div> 
+    <!-- Above Footer --> 
+    <section class="ad-container ad-container-footer"> 
+     <div class="ad-bin"> 
+      <div class="xt-placement xt-leaderboard-footer ad-btf-leaderboard ad-btf xt-leaderboard xt-placement"> 
+       <div id="cdm-zone-04">
+        <span class="bt-uid-tg" uid="592eee3afa-52-127" style="display: none !important"></span>
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <div id="footer-push"></div> 
+   </div> 
+   <footer id="footer"> 
+    <div class="footer-links"> 
+     <a href="https://www.curse.com" target="_blank" rel="noopener noreferrer" class="curse">Curse</a> 
+     <ul class="social"> 
+      <li><a href="//www.facebook.com/CurseNetwork" target="_blank" rel="noopener noreferrer" class="facebook">Facebook</a></li> 
+      <li><a href="//www.twitter.com/cursenetwork" target="_blank" rel="noopener noreferrer" class="twitter">Twitter</a></li> 
+      <li><a href="//www.youtube.com/curseentertainment" target="_blank" rel="noopener noreferrer" class="youtube">Youtube</a></li> 
+      <li><a href="//www.twitch.tv/curse" target="_blank" rel="noopener noreferrer" class="twitch">Twitch</a></li> 
+     </ul> 
+     <ul class="you"> 
+      <li><a href="/login?returnUrl=%252fcards" id="login-link" class="sign-in">Sign In</a></li> 
+      <li><a href="https://www.curse.com/careers" target="_blank" rel="noopener noreferrer" class="careers">Careers</a></li> 
+      <li><a href="http://web-support.curse.com" target="_blank" rel="noopener noreferrer" class="help">Help</a></li> 
+     </ul> 
+     <ul class="more"> 
+      <li><a href="https://www.curse.com" target="_blank" rel="noopener noreferrer" class="about">About Curse</a></li> 
+      <li><a href="https://www.curse.com/advertising" target="_blank" rel="noopener noreferrer" class="advertise">Advertise</a></li> 
+      <li><a href="https://www.twitch.tv/p/terms-of-service" target="_blank" rel="noopener noreferrer" class="tos">Terms of Service</a></li> 
+      <li><a href="https://www.twitch.tv/p/privacy-policy" target="_blank" rel="noopener noreferrer" class="privacy-policy">Privacy Policy</a></li> 
+     </ul> 
+     <span class="copyright">Copyright 2005-2018, Curse.</span> 
+    </div> 
+    <a data-ga-click-event-tracking-category="Mobile View" id="responsive-footer-button" class="rs-link rs-link-to-responsive">Mobile View</a> 
+    <div class="xt-placement xt-main-med-rect-footer "> 
+     <div id="cdm-zone-03" data-defer="true">
+      <span class="bt-uid-tg" uid="592ecd15cb-52-127" style="display: none !important"></span>
+     </div> 
+    </div> 
+   </footer> 
+   <div class="xt-placement xt-skindiv "> 
+    <!-- Skin --> 
+    <style>
+.ad-retarget { z-index: 0 !important;}
+.footer-temp { z-index: 1 !important;}
+</style> 
+    <script>
+(function () {
+var num = window.innerWidth < 1200 ? '00' : 'skin';
+document.write('<div id="cdm-zone-' + num + '"></div>');
+})();
+</script> 
+   </div> 
+   <div class="xt-placement xt-enddiv "> 
+    <div id="cdm-zone-end"></div> 
+   </div> 
+  </div> 
+  <!-- Layout End --> 
+  <div id="analytics"> 
+   <script type="text/javascript" src="//media-hearth.cursecdn.com/file-attachments/0/40/adsense.js"></script> 
+  </div> 
+  <script type="text/javascript">
+    Cobalt.Device.initialize();
+    Cobalt.Burger.initializeEarly();
+
+    Cobalt.Constants.initialize({"StaticURL":"/Content/1-0-239-0","SkinPath":"/Content/1-0-239-0/Skins/Hearth","MediaURL":"https://media-hearth.cursecdn.com/","AvatarURL":"https://media-hearth.cursecdn.com/avatars","AttachmentURL":"https://media-hearth.cursecdn.com/attachments","ActiveConfiguration":"production","PrivacyPolicyLastUpdated":"635857930800000000"});
+    
+    Cobalt.Constants.BuildVersion = "1-0-239-0";
+    Cobalt.Constants.IsDevelopment = false;
+    Cobalt.Constants.IgnoredUserIDs = [];
+    Cobalt.Constants.ServerTimestamp = 1539446454746.57
+    Cobalt.Constants.FacebookAppID = "115281131975974";
+    Cobalt.Constants.QuoteCssClasses = "blizzard,hearthpwn-dm,blizznew";
+    Cobalt.User.EnabledLanguageIDs = [1];
+    Cobalt.User.MaxQuoteDepth = 5;
+    Cobalt.User.AuthToken = "";
+    Cobalt.TinyMCE.extraPlugins = "card,deck";
+    Cobalt.TinyMCE.extraButtons = "card,deck";
+    Cobalt.TinyMCE.extraCustomPlugins = "card,deck";     
+
+    // NOTE: if you need to debug into tinymce, then change the following line to tinymce.js
+    Cobalt.TinyMCE.url = Cobalt.Constants.StaticURL + "/js/tinymce/tiny_mce/tinymce.min.js";
+    Cobalt.TinyMCE.customPluginUrl = Cobalt.Constants.StaticURL + "/js/tinymce/custom_plugins";
+    Cobalt.TinyMCE.skin_url = Cobalt.Constants.StaticURL + "/js/tinymce/custom_skin";
+    
+   
+    
+    Cobalt.Constants.SiteID = 3;
+    Cobalt.Constants.SiteName = "HearthPwn";
+    Cobalt.TinyMCE.fontColorEnabled = true;
+    Cobalt.TinyMCE.fontSizeEnabled = true;
+    Cobalt.TinyMCE.fontFamilyEnabled = true;
+    Cobalt.TinyMCE.textAlignmentEnabled = true;
+    Cobalt.TinyMCE.smiliesEnabled = false;
+    Cobalt.TinyMCE.forceSimpleBBCodeEditor = false;  
+    Cobalt.Constants.NestedQuotePreference  = 0;
+    
+    $.ajaxSetup({
+        data: {},
+        timeout: 30000
+    });
+    
+    
+
+    //bbcode entries
+    
+    Cobalt.Markup.customBBcodeButtons = [];    
+    
+    
+    
+    Cobalt.CMS.CobaltCss = ["/Content/1-0-239-0/Skins/Global-TinyMCE/css/compiled.css"];    
+    Cobalt.CMS.ProjectCss = ["/Content/1-0-239-0/Skins/Hearth/css/compiled.css"];
+
+    // set the tracking id for google analytics on this site
+    Cobalt.Analytics.trackingId = 'UA-37896755-13';
+
+</script> 
+  <script type="text/javascript">
+    Hearth.Collection.userId = '';
+    if (Hearth.Collection.userId != '') {
+        Hearth.Collection.modifiedDate = '1/1/0001 12:00:00 AM';
+    }
+    Hearth.Constants.initialize({});
+    Gandalf.Constants.CanEdit = false;
+</script> 
+  <script type="text/javascript">
+
+    Cobalt.runOnLoad(function () {
+        Cobalt.initialize([{dependency:Cobalt.Analytics, priority:99, name:'Cobalt.Analytics'},{dependency:Cobalt.TinyMCE, priority:99, name:'Cobalt.TinyMCE'},{dependency:Hearth.Filters, priority:99, name:'Hearth.Filters'},{dependency:Cobalt.Listing, priority:99, name:'Cobalt.Listing'},{dependency:Cobalt.Tabs, priority:99, name:'Cobalt.Tabs'},{dependency:Cobalt.NiceDates, priority:99, name:'Cobalt.NiceDates'},{dependency:Cobalt.Core, priority:99, name:'Cobalt.Core'},{dependency:Cobalt.Forms, priority:99, name:'Cobalt.Forms'},{dependency:Cobalt.UI, priority:99, name:'Cobalt.UI'},{dependency:Cobalt.Auth, priority:99, name:'Cobalt.Auth'},{dependency:Cobalt.Notifications, priority:99, name:'Cobalt.Notifications'},{dependency:Cobalt.Feedback, priority:99, name:'Cobalt.Feedback'},{dependency:Cobalt.WarningNotification, priority:99, name:'Cobalt.WarningNotification'},{dependency:Cobalt.Footer, priority:99, name:'Cobalt.Footer'},{dependency:Cobalt.Tidbit, priority:99, name:'Cobalt.Tidbit'},{dependency:Cobalt.BunnyEars, priority:99, name:'Cobalt.BunnyEars'},{dependency:Cobalt.Achievement, priority:99, name:'Cobalt.Achievement'},{dependency:Hearth.Card, priority:99, name:'Hearth.Card'},{dependency:Hearth, priority:99, name:'Hearth'},{dependency:Hearth.Collection, priority:99, name:'Hearth.Collection'},{dependency:Hearth.DeckWidget, priority:99, name:'Hearth.DeckWidget'}]);
+    });
+
+</script>   
+ </body>
+</html>
