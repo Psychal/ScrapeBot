@@ -96,7 +96,6 @@ public class MainActivity {
                     System.out.println(goldurl.attr("data-goldurl"));
                     writer2.write("IMG: " + goldurl.attr("data-goldurl"));
                     writer2.newLine();
-
                 }
 
                 for (Element cell : cells){
@@ -117,7 +116,6 @@ public class MainActivity {
                 writer.close();
                 writer2.close();
             }
-
         }
     }
 
@@ -126,10 +124,12 @@ public class MainActivity {
     }
 
     private static String trim(String s, int width) {
-        if (s.length() > width)
+        if (s.length() > width){
             return s.substring(0, width-1) + ".";
-        else
+        }
+        else {
             return s;
+        }
     }
 
     private static void log(String msg,Object... vals){
